@@ -1,0 +1,9 @@
+4、音量加
+{"code":19,"value":5} //音量总数为15，value表示音量加几
+回复
+{"code":20,"result":true,"errMsg":"","messageId":10086}
+
+5、音量减
+{"code":21,"value":5} //音量总数为15，value表示音量减几
+回复
+{"code":22,"result":true,"errMsg":"","messageId":10086}
