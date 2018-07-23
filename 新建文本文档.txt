@@ -1,0 +1,6 @@
+{"code":17,
+	"deviceType":"deviceType" // 设备类型，AndroidPhone为“1”，AndroidPad为“2”，iPhone为“3”，iPad为“4”
+	"deviceID":"deviceID" // 设备ID（不大于32个字节）
+	"deviceName":"deviceName" // 设备名称
+	"supportCommandList":"" //终端支持的指令列表(可以传空字符串)
+}
